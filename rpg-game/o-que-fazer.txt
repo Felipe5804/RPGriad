@@ -1,0 +1,14 @@
+Implemente as seguintes funcionalidades no jogo:
+
+Esquiva: Crie uma chance (random) do personagem não receber dano. - FEITO
+Sistema de Poção: Um método que permite ao herói recuperar vida 3 vezes por jogo. - FEITO (?)
+Entrada do Usuário: Use input() para deixar o jogador escolher se quer "Atacar" ou "Defender" em cada turno. - FEITO?
+Classes Novas: Crie a classe Arqueiro ou Assassino com habilidades únicas. - FEITO
+
+tem que criar um seletor de heroi?
+
+ATENÇÂO: Existe um erro no código referente a uso de herança, conserte ele antes de implementar as modificações.
+
+
+
+mudar isinstance pra polimorfismo

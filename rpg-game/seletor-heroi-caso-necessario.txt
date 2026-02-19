@@ -1,0 +1,7 @@
+provavelmente uma caralhada de input que nao estou com vontade de fazer as 23h de uma quarta
+sistema de atributo se sobrar tempo?
+arqueiro gasta mana?
+
+heroi = ClasseEscolhida(nome, vidaclasse, forcaclasse, manaclasse)
+
+classe = int(input(f"CLASSES:\n1-indigente\n2-Guerreiro\n2-Mago\n3-Arqueiro\nEscolha a classe do herói: "))
